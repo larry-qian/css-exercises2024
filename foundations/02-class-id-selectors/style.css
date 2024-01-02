@@ -1,5 +1,5 @@
 .classa {
-    background-color: salmon;
+    background-color: #ff91a4;
     font-family: "Verdana", "DejaVu Sans", serif;
 }
 .classb {
@@ -7,7 +7,7 @@
 }
 #id1 {
     font-size: 36px;
-    color: blue;
+    color: #0000ff;
 }
 #id2 {
     background-color:lightgreen;
