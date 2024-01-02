@@ -5,3 +5,12 @@
 .classb {
     font-size: 24px;
 }
+#id1 {
+    font-size: 36px;
+    color: blue;
+}
+#id2 {
+    background-color:lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
